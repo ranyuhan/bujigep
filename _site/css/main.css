@@ -7,7 +7,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
 hr {
-  border-color: #009B97;
+  border-color: #FF6B6B;
   border-width: 3px;
   max-width: 50px; }
 
@@ -18,9 +18,9 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #009B97; }
+  color: #FF6B6B; }
   a:hover, a:focus {
-    color: #006865; }
+    color: #ff3838; }
 
 h1,
 h2,
@@ -36,7 +36,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: #009B97; }
+  background-color: #FF6B6B; }
 
 .bg-dark {
   background-color: #1D121F;
@@ -62,12 +62,12 @@ aside {
   -moz-transition: all 0.35s;
   transition: all 0.35s; }
   .navbar-default .navbar-header .navbar-brand {
-    color: #009B97;
+    color: #FF6B6B;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     font-weight: 700;
     text-transform: uppercase; }
     .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus {
-      color: #006865; }
+      color: #ff3838; }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
     text-transform: uppercase;
@@ -76,10 +76,10 @@ aside {
     color: #1D121F; }
     .navbar-default .nav > li > a:hover,
     .navbar-default .nav > li > a:focus:hover {
-      color: #009B97; }
+      color: #FF6B6B; }
   .navbar-default .nav > li.active > a,
   .navbar-default .nav > li.active > a:focus {
-    color: #009B97 !important;
+    color: #FF6B6B !important;
     background-color: transparent; }
     .navbar-default .nav > li.active > a:hover,
     .navbar-default .nav > li.active > a:focus:hover {
@@ -102,16 +102,16 @@ aside {
         background-color: white;
         border-color: rgba(29, 18, 31, 0.5); }
         .navbar-default.affix .navbar-header .navbar-brand {
-          color: #009B97;
+          color: #FF6B6B;
           font-size: 14px; }
           .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus {
-            color: #006865; }
+            color: #ff3838; }
         .navbar-default.affix .nav > li > a,
         .navbar-default.affix .nav > li > a:focus {
           color: #1D121F; }
           .navbar-default.affix .nav > li > a:hover,
           .navbar-default.affix .nav > li > a:focus:hover {
-            color: #009B97; } }
+            color: #FF6B6B; } }
 
 .navbar-brand {
   font-family: 'Charm', cursive; }
@@ -227,7 +227,7 @@ header {
   margin: 0 auto 20px; }
 
 .text-primary {
-  color: #009B97; }
+  color: #FF6B6B; }
 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -255,22 +255,22 @@ header {
 
 .btn-primary {
   color: white;
-  background-color: #009B97;
-  border-color: #009B97;
+  background-color: #FF6B6B;
+  border-color: #FF6B6B;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle .btn-primary {
     color: white;
-    background-color: #00827e;
-    border-color: #007774; }
+    background-color: #ff5252;
+    border-color: #ff4747; }
   .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle .btn-primary {
     background-image: none; }
   .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-    background-color: #009B97;
-    border-color: #009B97; }
+    background-color: #FF6B6B;
+    border-color: #FF6B6B; }
   .btn-primary .badge {
-    color: #009B97;
+    color: #FF6B6B;
     background-color: white; }
 
 .btn {
